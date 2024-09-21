@@ -1,0 +1,27 @@
+use the following command to get the vim in debian/ubuntu(to check your distro $ echo /etc/os-release)
+ $ sudo apt install vim
+	OR
+use vim website for windows or $ choco install vim 
+---
+there are 3 modes:
+	i. normal(default mode)
+	ii. insert(press i to enter and esc to exit,press shift+a to go to end of line in insert mode)
+	iii. command(pressing : will take you to command mode from normal mode)
+___
+to save changes to a file:
+	i. go to command mode
+	ii. press :w
+
+---
+to save/write and exit press:
+	i. :wq in command mode
+---
+to undo the last action press:
+	i. u
+---
+go to the start of the line:
+	i. 0
+---
+go to the end of a line:
+	i. $ (in normal mode)
+---
